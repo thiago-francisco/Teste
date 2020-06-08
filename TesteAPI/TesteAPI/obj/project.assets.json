@@ -8837,11 +8837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Teste Capsberg\\TesteAPI\\TesteAPI\\TesteAPI.csproj",
+      "projectUniqueName": "C:\\Projetos\\Teste CapGemini\\TesteAPI\\TesteAPI\\TesteAPI.csproj",
       "projectName": "TesteAPI",
-      "projectPath": "C:\\Projetos\\Teste Capsberg\\TesteAPI\\TesteAPI\\TesteAPI.csproj",
+      "projectPath": "C:\\Projetos\\Teste CapGemini\\TesteAPI\\TesteAPI\\TesteAPI.csproj",
       "packagesPath": "C:\\Users\\thiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Teste Capsberg\\TesteAPI\\TesteAPI\\obj\\",
+      "outputPath": "C:\\Projetos\\Teste CapGemini\\TesteAPI\\TesteAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
